@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://nikimix.github.io/react-course/react-api/static/css/main.026a67b2.css",
+    "main.js": "https://nikimix.github.io/react-course/react-api/static/js/main.8d70a320.js",
+    "index.html": "https://nikimix.github.io/react-course/react-api/index.html",
+    "main.026a67b2.css.map": "https://nikimix.github.io/react-course/react-api/static/css/main.026a67b2.css.map",
+    "main.8d70a320.js.map": "https://nikimix.github.io/react-course/react-api/static/js/main.8d70a320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.026a67b2.css",
+    "static/js/main.8d70a320.js"
+  ]
+}
